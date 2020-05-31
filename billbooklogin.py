@@ -15,3 +15,4 @@ twoman = driver.find_element_by_id("navbarDropdownMenuLink").click()
 driver.find_element_by_link_text("group_add Add New Manager").click()
 
 #create new manager
+#creaded
